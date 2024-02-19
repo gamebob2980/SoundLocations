@@ -1,0 +1,13 @@
+name: SoundLocations
+version: '${project.version}'
+main: me.gamebob2980.soundlocations.SoundLocations
+api-version: '1.20'
+authors: [gamebob2980]
+description: Play sounds when a player is near a certain block
+website: youtube.com/@gamebob2980
+commands:
+  sounds:
+    description: Sounds command
+    usage: /<command>
+    aliases:
+      - sound
